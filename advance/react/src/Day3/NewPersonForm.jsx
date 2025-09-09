@@ -4,7 +4,7 @@ import { uuidv4 } from "../util/uuid";
 const AVAILABLE_PROFESSIONS = [
   "mathematician",
   "chemist",
-  "developer",
+
   "physicist",
 ];
 
