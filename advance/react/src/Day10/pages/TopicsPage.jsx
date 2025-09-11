@@ -2,7 +2,7 @@ import React from "react";
 import { Link, Route, Switch, useParams, useRouteMatch } from "react-router-dom";
 
 export default function TopicsPage() {
-  let match = useRouteMatch();
+
 
   // console.log("match", match);
 
