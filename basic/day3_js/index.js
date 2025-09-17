@@ -5,7 +5,7 @@ var something = "qoiwdoqpwk";
 let count = 1;
 // console.log(count);
 // count++;
-// console.log(count);
+
 
 // const foo = "foo";
 // foo = "bar";
