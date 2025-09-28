@@ -4,7 +4,7 @@ const ageInput = document.getElementById("personAge");
 const addPersonBtn = document.getElementById("addPersonBtn");
 
 // const people = JSON.parse(localStorage.getItem("people")) || [];
-let people = JSON.parse(localStorage.getItem("people"));
+
 if (!people) people = [];
 
 const display = () => {
