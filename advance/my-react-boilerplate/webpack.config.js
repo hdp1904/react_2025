@@ -33,7 +33,7 @@ module.exports = {
   },
   plugins: [new HtmlWebpackPlugin({
     title: 'our own react boilerplate',
-
+    template: 'public/index.html'
   })],
   devServer: {
     static: {
