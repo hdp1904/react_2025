@@ -19,7 +19,7 @@ const person1 = {
 const person2 = { ...person1 };
 // {name: person1.name, age: person1.age, address: person1.address}
 person2.name = "Joe";
-
+person2.address.zip = "10000";
 
 // Deep copy
 
