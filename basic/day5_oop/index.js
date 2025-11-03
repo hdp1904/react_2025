@@ -27,7 +27,7 @@ const obj2 = {
 //     return `The book ${this.name} is published in year ${this.year}`;
 //   },
 //   getYear() {
-/
+//     return this.year;
 //   },
 // };
 
