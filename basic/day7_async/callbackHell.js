@@ -74,7 +74,7 @@ function cookBeef(beef) {
         const patty = "patty";
         resolve(patty);
       } else {
-        reject("no beef available");
+     
       }
     }, 500);
   });
