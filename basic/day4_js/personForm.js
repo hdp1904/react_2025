@@ -13,7 +13,7 @@ const display = () => {
 for(let i of people){
   const temp = document.createElement("p");
   temp.append(i.name, " ", i.age);
-
+  tempDiv.appendChild(temp);
 }
 personForm.after(tempDiv);
 }
