@@ -9,7 +9,7 @@ class TodoController {
 
   initApp() {
     this.setUpEvents();
-    this.fetchTodos();
+
   }
 
   setUpEvents() {
