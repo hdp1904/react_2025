@@ -8,7 +8,7 @@ import {
 } from "./closures";
 
 describe("closures", () => {
-  describe("createGreeting", () => {
+
     it("should return a greeting message", () => {
       const sayHello = createGreeting("Hello");
       expect(sayHello("Alice")).toBe("Hello Alice");
