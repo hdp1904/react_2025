@@ -7,7 +7,7 @@ let count = 1;
 // count++;
 // console.log(count);
 
-
+// const foo = "foo";
 // foo = "bar";
 
 // var behaviors
