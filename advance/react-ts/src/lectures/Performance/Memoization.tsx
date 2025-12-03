@@ -14,7 +14,7 @@ import Counter from "./Counter";
 export default function Memoization() {
 
   const [count, setCount] = useState(0);
-
+  const [input, setInput] = useState("");
   const handleClick = useCallback(() => {
     console.log("Button clicked");
   }, []);
