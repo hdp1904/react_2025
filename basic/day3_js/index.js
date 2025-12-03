@@ -18,7 +18,7 @@ let count = 1;
 //      can be accessed anywhere inside a function
 
 function foo() {
-  if (false) {
+
     var a = "a";
   }
   //   console.log("var", a);
