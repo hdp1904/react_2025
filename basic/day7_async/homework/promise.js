@@ -5,7 +5,7 @@ export const fetchPosts = async () => {
 
 export const fetchPostById = async (id) => {
   //fetch a post by id from "https://jsonplaceholder.typicode.com/posts/${id}"
-
+  //return the post
 };
 
 export const sequentialPromise = async (promises, order) => {
